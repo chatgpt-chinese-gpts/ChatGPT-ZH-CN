@@ -15,7 +15,7 @@
 **【推荐】国内最佳ChatGPT体验入口：**
 
 *   **综合体验首选**：**[xsimplechat.com](https://xsimplechat.com)** (支持GPT-4o及多种模型，功能全面)
-*   **官网平替推荐**：**[chat.lanjingai.org](https://chat.lanjingai.org)** (高仿官网界面，支持语音/视频对话)
+*   **官网平替推荐**：**[ai.lanjingai.org](https://ai.lanjingai.org)** (高仿官网界面，支持语音/视频对话)
 
 ---
 
